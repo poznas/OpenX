@@ -4,3 +4,6 @@
 
 *testing non-unique titles case*<br>
 **python3** test_non_unique.py 
+<br><br>
+![](https://raw.githubusercontent.com/poznas/OpenX/master/console.png)
+
